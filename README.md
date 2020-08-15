@@ -48,7 +48,10 @@ Initial commit:
 -insert placeholder text on every page for rough idea of content
 -created readme
 
-2nd commit:
+added navbar, fixed stylesheet:
 - added navbar, basic initial styling (font properties and background colour)
 - linked pages together
 - fixed css stylesheet path (previously forgot to add assets/css/)
+
+3rd commit:
+-created and uploaded custom banner picture, inserted banner into homepage, using bootstrap grid system. started styling banner and nav bar
