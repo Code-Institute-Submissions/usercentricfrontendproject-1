@@ -1,3 +1,4 @@
+/* text */
 h1, h2 {
     font-family: 'Lobster', cursive;
 }
@@ -5,3 +6,24 @@ h1, h2 {
 h3, h4, h5, h6, p {
 font-family: 'Open Sans', sans-serif;
 }
+
+/* navbar */
+.navbar-nav li {
+font-family: 'Lobster';
+background-color: #ffffff;
+border: 4px solid black;
+color: black;
+text-align: right;
+font-size: 18px;
+}
+
+.navbar a {
+    text-decoration: none;
+    color:black;
+}
+
+/* header*/
+
+
+/* footer */
+

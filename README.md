@@ -47,3 +47,8 @@ Initial commit:
 -added page titles
 -insert placeholder text on every page for rough idea of content
 -created readme
+
+2nd commit:
+- added navbar, basic initial styling (font properties and background colour)
+- linked pages together
+- fixed css stylesheet path (previously forgot to add assets/css/)
