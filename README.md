@@ -60,3 +60,7 @@ responsive and compact navbar and image:
 -styled menu list items with box-shadow on hover to create effect of pressing piano keys. style nav li with extra padding to make longer 'piano keys'
 -changed page titles to make menu more compact
 -made navbar and banner image more responsive using bootstrap grid system
+
+removed image and added 4 different images:
+-removed banner image due to responsiveness issues
+-uploaded 4 new different sized images to add at different resolutions
