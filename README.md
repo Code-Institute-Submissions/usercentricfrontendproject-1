@@ -1,39 +1,49 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+External users goals:
+Site's users are interested in learning how to produce music, how to dj or acquiring new sounds for their own use
 
-Welcome USER_NAME,
+Site owners goals:
+Acquire students to teach (music production and djing), sell own samples and sounds, and also gain more listeners for my own music
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
+Potential features:
+Give personal story and own experience
+Give an outline of both production and dj course - Embedded video (example of tutorials)
+Embedded music (examples of patches)
+Contact form
 
-## Gitpod Reminders
+Advanced features:
+Embed soundcloud player
+Newsletter subscription service with free tips and tricks
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+--------------------------------------------------
 
-`python3 -m http.server`
+Header :
+Make it look like an amp head/rack gear
 
-A blue button should appear to click: *Make Public*,
+*-Home (intro video embedded)
+*-About me (photo, bio)
+*-Learn music production (list broken into modules, include photos and sound samples. Short free tutorial video embedded)
+*-Learn how to DJ (brief outline, offer some free tips and tricks)
+*-Sound design service ('give me the theme, i'll give you the sound' . Include pricing ie £5 for 3 patches, £10 for 10 patches - (custom drum kit counts as 5) or £20 for 30 patches. Can request how many of each sound (i.e bass, lead, pad, arps etc) included in that
+*-Contact (form)
 
-Another blue button should appear to click: *Open Browser*.
+Footer - (link to free samples, soundcloud, mixcloud, facebook), sign up to newsletter
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+** Aesthetics **
+- Vertical menu items along left hand side to look like piano keys. Use hover effect to make it look like keys are being played
+- Header will be a picture of an amplifier head
+- Include musical fontawesome icons such as notes, keys, speakers and turntables
+- Use less colours but more shades of said colours for subtle effect
 
-A blue button should appear to click: *Make Public*,
+--------------------------------------------------------
+chosen (google) text for h1,h2: Lobster (regular 400)
+chosen (google) text for h3,h4,h5,h6,p: Open sans (light 300, regular 400, semi-bold 500)
 
-Another blue button should appear to click: *Open Browser*.
+--------------------------------------------------------
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the backend lessons.
-
-## Updates Since The Instructional Video
-
-We continually tweak and adjust this template to help give you the best experience. Here are the updates since the original video was made:
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
---------
-
-Happy coding!
+Initial commit:
+-created all folders and pages including css stylesheet.
+-created boilerplate and header/footer(blank)
+-inserted css stylesheet, bootstrap, fontawesome and google fonts into each page.
+-added page titles
+-insert placeholder text on every page for rough idea of content
+-created readme
