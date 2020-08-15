@@ -64,3 +64,6 @@ responsive and compact navbar and image:
 removed image and added 4 different images:
 -removed banner image due to responsiveness issues
 -uploaded 4 new different sized images to add at different resolutions
+
+Wrote html for contact page:
+-created contact form on contact page

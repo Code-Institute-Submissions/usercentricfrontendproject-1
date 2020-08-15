@@ -48,8 +48,27 @@
 			</ul>
 		</nav>
     </header>
-	<p>contact form goes here - need name, email address, drop down selection of why they are getting in touch (music
-		production lessons, dj lessons, sound design service, other)</p>
+
+	<form id="comments">
+    <label for="fname">First name:</label><br>
+  <input required type="text" id="fname" name="fname"><br>
+  <label for="lname">Last name:</label><br>
+  <input required type="text" id="lname" name="lname"><br>
+    <label for="email">Email:</label><br>
+  <input required type="email" id="email" name="email"><br>
+<label for="subject">Subject:</label><br>
+<input required type="radio" id="Music Production" name="subject" value="Music Production">
+  <label for="Music Production">Music Production</label><br>
+<input required type="radio" id="DJing" name="subject" value="DJing">
+  <label for="DJing">DJing</label><br>
+<input required type="radio" id="Sound Design" name="subject" value="Sound Design">
+  <label for="Sound Design">Sound Design</label><br>
+<input required type="radio" id="Other" name="subject" value="Other">
+  <label for="Other">Other</label><br>
+<textarea id="commentbox" name="comment" placeholder="Enter your message here..."></textarea><br>
+    <input type="submit" value="Submit">
+    </form>
+
 	<footer></footer>
 </body>
 
