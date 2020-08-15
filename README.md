@@ -66,4 +66,10 @@ removed image and added 4 different images:
 -uploaded 4 new different sized images to add at different resolutions
 
 Wrote html for contact page:
--created contact form on contact page
+-created contact form on contact page to allow requests/ feedback from visitprs
+
+Fontawesome changes and embedded soundcloud:
+-replaced bootstrap fomtawesome cdn with fontawesome javascript cdn to accomodate newer icons **fontawesome icons are still not appearing. need to keep troubleshooting**
+-added icons to list of dj tips on dj page
+-started replacing placeholder text on dj and about me page
+-embedded soundcloud player on about me page to allow visitors to listen to my music
