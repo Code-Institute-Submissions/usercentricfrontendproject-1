@@ -17,7 +17,7 @@ Newsletter subscription service with free tips and tricks
 --------------------------------------------------
 
 Header :
-Make it look like an amp head/rack gear
+Make it look like a synth
 
 *-Home (intro video embedded)
 *-About me (photo, bio)
@@ -39,7 +39,7 @@ chosen (google) text for h1,h2: Lobster (regular 400)
 chosen (google) text for h3,h4,h5,h6,p: Open sans (light 300, regular 400, semi-bold 500)
 
 --------------------------------------------------------
-
+15/08/2020
 Initial commit:
 -created all folders and pages including css stylesheet.
 -created boilerplate and header/footer(blank)
@@ -73,3 +73,7 @@ Fontawesome changes and embedded soundcloud:
 -added icons to list of dj tips on dj page
 -started replacing placeholder text on dj and about me page
 -embedded soundcloud player on about me page to allow visitors to listen to my music
+
+16/08/2020
+Created music production curriculum
+-Created a curriculum for the music production course. Added all modules and sub-divided with unordered lists
