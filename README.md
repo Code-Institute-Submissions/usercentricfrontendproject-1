@@ -53,5 +53,10 @@ added navbar, fixed stylesheet:
 - linked pages together
 - fixed css stylesheet path (previously forgot to add assets/css/)
 
-3rd commit:
+Added custom banner:
 -created and uploaded custom banner picture, inserted banner into homepage, using bootstrap grid system. started styling banner and nav bar
+
+responsive and compact navbar and image:
+-styled menu list items with box-shadow on hover to create effect of pressing piano keys. style nav li with extra padding to make longer 'piano keys'
+-changed page titles to make menu more compact
+-made navbar and banner image more responsive using bootstrap grid system
