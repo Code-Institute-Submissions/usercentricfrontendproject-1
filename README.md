@@ -100,6 +100,9 @@ Updated design page
 Updated homepage, added new images to images folder
 -Added 'Who this website is for' and 'What i can offer you' unordered lists to homepage
 -added new images to folder for later use
+
+Updated about me page
+-Wrote bio for about me page
 ---------------------------------------------------------------------------------------------------------------------------------
 external code used:
 
