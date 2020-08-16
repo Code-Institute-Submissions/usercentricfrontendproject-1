@@ -93,6 +93,10 @@ Wrote introduction paragraph to DJ page, included external code in readme
 Uploaded images for music production page
 -Uploaded images matching the modules in the music production course
 
+Updated design page
+-Added intro paragraph for design page
+-included pricing table on design page using bootstrap
+
 ---------------------------------------------------------------------------------------------------------------------------------
 external code used:
 
