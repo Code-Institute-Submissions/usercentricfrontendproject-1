@@ -97,6 +97,9 @@ Updated design page
 -Added intro paragraph for design page
 -included pricing table on design page using bootstrap
 
+Updated homepage, added new images to images folder
+-Added 'Who this website is for' and 'What i can offer you' unordered lists to homepage
+-added new images to folder for later use
 ---------------------------------------------------------------------------------------------------------------------------------
 external code used:
 
