@@ -77,3 +77,8 @@ Fontawesome changes and embedded soundcloud:
 16/08/2020
 Created music production curriculum
 -Created a curriculum for the music production course. Added all modules and sub-divided with unordered lists
+
+Added DJ tips, 
+-wrote ordered list of free DJ tips on DJ page
+-Uploaded and embedded own mix to DJ page
+-Added headline for homepage
