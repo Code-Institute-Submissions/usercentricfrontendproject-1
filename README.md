@@ -90,6 +90,9 @@ Added DJ tips and mix,
 Wrote introduction paragraph to DJ page, included external code in readme
 -Introduction to DJ course written on DJ page with reference to other elements on the page. Included eternal code used, at the bottom of this readme
 
+Uploaded images for music production page
+-Uploaded images matching the modules in the music production course
+
 ---------------------------------------------------------------------------------------------------------------------------------
 external code used:
 
