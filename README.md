@@ -106,8 +106,13 @@ Updated about me page
 
 17/08/2020
 Created footer, intro to music production
--created footer including form for newsletter and social links **fontawesome icons still not displaying**
+-created footer including form for newsletter and social links **fontawesome icons still not displaying**. Keeping footer only on homepage until fontawesome problem is fixed.
 -wrote introduction to music production course
+
+Added pricing and special offer
+-Added pricing to both production and DJ pages
+-Created special offer and link to contact page from homepage
+-Slightly adjusted wording on contact page to accomodate visitors coming to the page from the link on the homepage
 ---------------------------------------------------------------------------------------------------------------------------------
 external code used:
 
