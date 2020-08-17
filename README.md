@@ -120,6 +120,9 @@ Added sections, tidied up paragraphs
 
 Special offer section
 -added extra section for special offer for aesthetic reasons
+
+Added sounds
+-uploaded sounds to assets/sounds folder and added sample sounds to design page
 ---------------------------------------------------------------------------------------------------------------------------------
 external code used:
 
