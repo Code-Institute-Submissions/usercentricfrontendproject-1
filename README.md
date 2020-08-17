@@ -127,6 +127,10 @@ Added sounds
 Divided production course modules into divs
 -divided the modules of the production course into individual divs to accomodate images
 -added corresponding css selectors
+
+Fixed errors on design page, replaced fontawesome cdn
+-fixed 3 syntax errors on design page
+-replaced fontawesome script cdn with bootstrap html cdn (all pages)
 ---------------------------------------------------------------------------------------------------------------------------------
 external code used:
 
