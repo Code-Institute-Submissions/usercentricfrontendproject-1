@@ -123,6 +123,10 @@ Special offer section
 
 Added sounds
 -uploaded sounds to assets/sounds folder and added sample sounds to design page
+
+Divided production course modules into divs
+-divided the modules of the production course into individual divs to accomodate images
+-added corresponding css selectors
 ---------------------------------------------------------------------------------------------------------------------------------
 external code used:
 
