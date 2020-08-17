@@ -131,6 +131,14 @@ Divided production course modules into divs
 Fixed errors on design page, replaced fontawesome cdn
 -fixed 3 syntax errors on design page
 -replaced fontawesome script cdn with bootstrap html cdn (all pages)
+
+**fontawesome icons still not appearing**
+
+Added divs
+-added divs to every page
+-renamed some sections for the sake of continuity
+-updated current fontawesome CDN in readme
+
 ---------------------------------------------------------------------------------------------------------------------------------
 external code used:
 
@@ -156,7 +164,8 @@ external code used:
       crossorigin="anonymous"
     ></script>
 
--(Fontawesome CDN): <script href="https://use.fontawesome.com/7e63086f43.js"></script>
+-(Fontawesome CDN): <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+		integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
 
 -(Google fonts CDN): <link
       href="https://fonts.googleapis.com/css2?family=Lobster&family=Open+Sans:wght@300;400;600&display=swap"
