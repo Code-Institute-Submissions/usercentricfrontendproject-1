@@ -139,6 +139,9 @@ Added divs
 -renamed some sections for the sake of continuity
 -updated current fontawesome CDN in readme
 
+Began styling design price table
+-added colors to 'you save' column of sound design price table to accentuate greater savings
+
 ---------------------------------------------------------------------------------------------------------------------------------
 external code used:
 
