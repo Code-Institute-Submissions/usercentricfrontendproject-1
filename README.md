@@ -113,6 +113,10 @@ Added pricing and special offer
 -Added pricing to both production and DJ pages
 -Created special offer and link to contact page from homepage
 -Slightly adjusted wording on contact page to accomodate visitors coming to the page from the link on the homepage
+
+Added sections, tidied up paragraphs
+-added sections to every page with accompanying css selectors
+-added line breaks where necessary to break up larger bodies of text
 ---------------------------------------------------------------------------------------------------------------------------------
 external code used:
 
