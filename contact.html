@@ -1,90 +1,108 @@
 <!DOCTYPE html>
 <html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="assets/css/style.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Lobster&family=Open+Sans:wght@300;400;600&display=swap"
+      rel="stylesheet"
+    />
+    <script href="https://use.fontawesome.com/7e63086f43.js"></script>
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+      integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
+      crossorigin="anonymous"
+    />
+    <script
+      src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+      integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+      integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+      integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+      crossorigin="anonymous"
+    ></script>
+    <title>Contact</title>
+  </head>
 
-<head>
-	<meta charset="UTF-8" />
-	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-	<link rel="stylesheet" type="text/css" href="assets/css/style.css" />
-	<link href="https://fonts.googleapis.com/css2?family=Lobster&family=Open+Sans:wght@300;400;600&display=swap"
-		rel="stylesheet" />
-	<script href="https://use.fontawesome.com/7e63086f43.js"></script>
-	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
-		integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous" />
-	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
-		integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous">
-	</script>
-	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
-		integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous">
-	</script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
-		integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous">
-	</script>
-	<title>Contact</title>
-</head>
+  <body>
+    <header>
+      <nav class="navbar nav-light">
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <a href="index.html">Home</a>
+          </li>
+          <li class="nav-item">
+            <a href="about_me.html">About me</a>
+          </li>
+          <li class="nav-item">
+            <a href="music_production.html">Production</a>
+          </li>
+          <li class="nav-item">
+            <a href="dj.html">DJ</a>
+          </li>
+          <li class="nav-item">
+            <a href="sound_design.html">Design</a>
+          </li>
+          <li class="nav-item">
+            <a href="contact.html">Contact</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
 
-<body>
-	<header>
-		<nav class="navbar nav-light">
-			<ul class="navbar-nav">
-				<li class="nav-item">
-					<a href="index.html">Home</a>
-				</li>
-				<li class="nav-item">
-					<a href="about_me.html">About me</a>
-				</li>
-				<li class="nav-item">
-					<a href="music_production.html">Production</a>
-				</li>
-				<li class="nav-item">
-					<a href="dj.html">DJ</a>
-				</li>
-				<li class="nav-item">
-					<a href="sound_design.html">Design</a>
-				</li>
-				<li class="nav-item">
-					<a href="contact.html">Contact</a>
-				</li>
-			</ul>
-		</nav>
-	</header>
+    <h1>
+      If you are interested in partaking in either course, would like some
+      custom sound design work done for you, or just generally want to get in
+      touch, fill in the form below and I will get back to you as soon as
+      possible! Thanks for stopping by.
+    </h1>
 
-	<form id="comments">
-		<label for="fname">First name:</label><br />
-		<input required type="text" id="fname" name="fname" /><br />
-		<label for="lname">Last name:</label><br />
-		<input required type="text" id="lname" name="lname" /><br />
-		<label for="email">Email:</label><br />
-		<input required type="email" id="email" name="email" /><br />
-		<label for="subject">Subject:</label><br />
-		<input
+    <form id="comments">
+      <label for="fname">First name:</label><br />
+      <input required type="text" id="fname" name="fname" /><br />
+      <label for="lname">Last name:</label><br />
+      <input required type="text" id="lname" name="lname" /><br />
+      <label for="email">Email:</label><br />
+      <input required type="email" id="email" name="email" /><br />
+      <label for="subject">Subject:</label><br />
+      <input
         required
         type="radio"
         id="Music Production"
         name="subject"
         value="Music Production"
       />
-		<label for="Music Production">Music Production</label><br />
-		<input required type="radio" id="DJing" name="subject" value="DJing" />
-		<label for="DJing">DJing</label><br />
-		<input
+      <label for="Music Production">Music Production</label><br />
+      <input required type="radio" id="DJing" name="subject" value="DJing" />
+      <label for="DJing">DJing</label><br />
+      <input
         required
         type="radio"
         id="Sound Design"
         name="subject"
         value="Sound Design"
       />
-		<label for="Sound Design">Sound Design</label><br />
-		<input required type="radio" id="Other" name="subject" value="Other" />
-		<label for="Other">Other</label><br />
-		<textarea
+      <label for="Sound Design">Sound Design</label><br />
+      <input required type="radio" id="Other" name="subject" value="Other" />
+      <label for="Other">Other</label><br />
+      <textarea
         id="commentbox"
         name="comment"
         placeholder="Enter your message here..."
-      ></textarea><br />
-		<input type="submit" value="Submit" />
+      ></textarea
+      ><br />
+      <input type="submit" value="Submit" />
     </form>
 
-		<footer></footer>
-</body>
-
+    <footer></footer>
+  </body>
 </html>

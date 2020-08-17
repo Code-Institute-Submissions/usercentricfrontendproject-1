@@ -103,6 +103,11 @@ Updated homepage, added new images to images folder
 
 Updated about me page
 -Wrote bio for about me page
+
+17/08/2020
+Created footer, intro to music production
+-created footer including form for newsletter and social links **fontawesome icons still not displaying**
+-wrote introduction to music production course
 ---------------------------------------------------------------------------------------------------------------------------------
 external code used:
 
