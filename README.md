@@ -117,6 +117,9 @@ Added pricing and special offer
 Added sections, tidied up paragraphs
 -added sections to every page with accompanying css selectors
 -added line breaks where necessary to break up larger bodies of text
+
+Special offer section
+-added extra section for special offer for aesthetic reasons
 ---------------------------------------------------------------------------------------------------------------------------------
 external code used:
 
