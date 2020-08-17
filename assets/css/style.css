@@ -71,15 +71,7 @@ min-height: 10px;
 
 }
 
-#bio-div{
-
-}
-
 #soundcloud {
-
-}
-
-#soundcloud-with-heading{
 
 }
 
@@ -90,9 +82,6 @@ min-height: 10px;
 /* ----------------------------------------------------------------------------------------------------------------------------------- */
 
 /* contact */
-#contact-page {
-
-}
 
 #contact-div{
 
@@ -109,6 +98,10 @@ min-height: 10px;
 
 }
 
+#dj-intro-writing{
+
+}
+
 #dj-video {
 
 }
@@ -117,23 +110,12 @@ min-height: 10px;
 
 }
 
-#dj-price-div{
-
-}
 
 #dj-tips {
 
 }
 
-#dj-tips-div{
-
-}
-
 #mixcloud {
-
-}
-
-#mixcloud-div{
 
 }
 
@@ -173,15 +155,7 @@ min-height: 10px;
 
 }
 
-#offer-div{
-
-}
-
 #home-conclusion{
-
-}
-
-#home-conclusion-div{
 
 }
 
@@ -193,15 +167,7 @@ min-height: 10px;
 
 }
 
-#production-intro-div{
-
-}
-
 #production-course-price {
-
-}
-
-#production-prive-div{
 
 }
 
@@ -249,10 +215,6 @@ min-height: 10px;
 
 }
 
-#production-video-div{
-
-}
-
 #production-video-player{
 
 }
@@ -265,10 +227,6 @@ min-height: 10px;
 
 }
 
-#design-intro-div{
-
-}
-
 #design-drumkits{
 
 }
@@ -277,18 +235,12 @@ min-height: 10px;
 
 }
 
-#design-table-div{
+#design-table{
 
 }
-
-
 
 #design-samples {
 
-}
-
-#design-samples-div {
-    
 }
 
 .design-total-patches {
