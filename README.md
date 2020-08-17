@@ -144,75 +144,25 @@ Began styling design price table
 
 ---------------------------------------------------------------------------------------------------------------------------------
 external code used:
+Bootstrap
+Fontawesome
+Google fonts
+Soundcloud player
+Mixcloud player
 
--(Bootstrap CDN):  <link
-      rel="stylesheet"
-      href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
-      integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
-      crossorigin="anonymous"
-    />
-    <script
-      src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
-      integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
-      crossorigin="anonymous"
-    ></script>
-    <script
-      src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
-      integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
-      crossorigin="anonymous"
-    ></script>
-    <script
-      src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
-      integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
-      crossorigin="anonymous"
-    ></script>
+Documentation needed:
+make documentation folder
 
--(Fontawesome CDN): <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
-		integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+wireframe for entire website on 4 screen sizes
 
--(Google fonts CDN): <link
-      href="https://fonts.googleapis.com/css2?family=Lobster&family=Open+Sans:wght@300;400;600&display=swap"
-      rel="stylesheet"
-    />
+include UX in readme
 
--(To embed soundcloud player): <iframe
-      width="100%"
-      height="300"
-      scrolling="no"
-      frameborder="no"
-      allow="autoplay"
-      src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/216717155&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
-    ></iframe>
+site goals
+site rationale
 
-<div
-      style="
-        font-size: 10px;
-        color: #cccccc;
-        line-break: anywhere;
-        word-break: normal;
-        overflow: hidden;
-        white-space: nowrap;
-        text-overflow: ellipsis;
-        font-family: Interstate, Lucida Grande, Lucida Sans Unicode, Lucida Sans,
-          Garuda, Verdana, Tahoma, sans-serif;
-        font-weight: 100;
-      "
-    >
-<a
-        href="https://soundcloud.com/gildy"
-        title="gildy"
-        target="_blank"
-        style="color: #cccccc; text-decoration: none;"
-        >gildy</a
-      >
-·
-<a
-        href="https://soundcloud.com/gildy/p1003031972014904"
-        title="P10/03031972014904"
-        target="_blank"
-        style="color: #cccccc; text-decoration: none;"
-        >P10/03031972014904</a
-      >
-</div>
-
--(To embed mixcloud player): <iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2FGjgcf5%2Faugust-techno%2F" frameborder="0"></iframe>
+user goals
+user stories:
+-as a first time visitor i want to
+-as a returning visitor i want to
+-as an owner and a client i want to
+- use w3c html and css validator and include screenshots
