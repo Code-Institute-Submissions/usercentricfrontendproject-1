@@ -116,6 +116,7 @@ min-height: 10px;
 #contact-form {
 text-align: center;
 border: 5px solid #000080;
+ font-weight: bold;
 }
 
 /* ----------------------------------------------------------------------------------------------------------------------------------- */
@@ -277,6 +278,10 @@ background-color:#3366ff;
 
 #production-curriculum-headline{
 
+}
+
+#production-curriculum h3{
+    font-weight: bold;
 }
 
 #module1 {

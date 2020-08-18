@@ -166,3 +166,5 @@ user stories:
 -as a returning visitor i want to
 -as an owner and a client i want to
 - use w3c html and css validator and include screenshots
+
+contact form in bold, module headings bold
