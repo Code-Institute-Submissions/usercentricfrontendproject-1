@@ -65,6 +65,11 @@ min-height: 10px;
   }
 }  */
 
+#banner-image{
+    max-width:100%;
+    height:auto;
+}
+
 /* ----------------------------------------------------------------------------------------------------------------------------------- */
 
 /* About me */
@@ -162,6 +167,10 @@ background-color:#3366ff;
 #dj-tips h1{
     background-color: #719ad4;
     color:black;
+}
+
+#dj-tips li {
+    font-size: 18px;
 }
 
 #mixcloud {
@@ -282,6 +291,11 @@ background-color:#3366ff;
 
 #production-curriculum h3{
     font-weight: bold;
+}
+
+#production-curriculum img {
+    width:50%;
+    height:50%;
 }
 
 #module1 {
@@ -413,6 +427,7 @@ color:white;
 }
 
 #design-table{
+    border-style: double;
    
 }
 
