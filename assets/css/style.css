@@ -111,6 +111,7 @@ min-height: 10px;
 
 #contact-form {
 text-align: center;
+border: 5px solid #000080;
 }
 
 /* ----------------------------------------------------------------------------------------------------------------------------------- */
@@ -123,6 +124,7 @@ text-align: center;
 #dj-course-intro h1{
     background-color: #0971ff;
     color:black;
+    text-align: center;
 }
 
 #dj-intro-writing{
@@ -134,8 +136,10 @@ text-align: center;
 }
 
 #dj-course-price {
-background-color:#660066;
-    color:white;
+background-color:#3366ff;
+    color:black;
+    font-weight: bold;
+    text-align: center;
 }
 
 #dj-course-price h2{
@@ -148,7 +152,7 @@ background-color:#660066;
 }
 
 #dj-tips h1{
-    background-color: #0971ff;
+    background-color: #719ad4;
     color:black;
 }
 
@@ -176,6 +180,7 @@ background-color:#660066;
 #home-intro h1{
     background-color: #0971ff;
     color:black;
+    text-align: center;
 }
 
 #home-header{
@@ -191,8 +196,10 @@ background-color:#660066;
 }
 
 #website-for{
-    background-color:#660066;
-    color:white;
+background-color:#3366ff;
+    color:black;
+    font-weight: bold;
+    text-align: center;
 }
 
 #website-for h2{
@@ -200,8 +207,10 @@ background-color:#660066;
 }
 
 #offer-you{
- background-color:#660066;
-    color:white;
+ background-color:#3366ff;
+    color:black;
+    font-weight: bold;
+    text-align: center;
 }
 
 #offer-you h2{
@@ -235,11 +244,14 @@ background-color:#660066;
 #production-course-intro h1{
     background-color: #0971ff;
     color:black;
+    text-align: center;
 }
 
 #production-course-price {
-background-color:#660066;
-    color:white;
+background-color:#3366ff;
+    color:black;
+    font-weight: bold;
+    text-align: center;
 }
 
 #production-course-price h2{
@@ -254,37 +266,103 @@ background-color:#660066;
 
 }
 
-#module1 (
+#module1 {
 
-)
+}
 
-#module2 (
+#module1-text{
+background-color:#bbece3 ;
+}
+
+#module1-img{
+
+}
+
+#module2 {
+
+}
+
+#module2-text{
+background-color:#8de7d1 ;
+}
+
+#module2-img{
     
-)
+}
 
-#module3 (
+#module3 {
     
-)
+}
 
-#module4 (
-    
-)
+#module3-text{
+background-color:#00ffff ;
+}
 
-#module5 (
+#module3-img{
     
-)
+}
 
-#module6 (
-    
-)
+#module4 {
 
-#module7 (
-    
-)
+}
 
-#modulebonus (
+
+#module4-text{
+background-color:#00cccc ;
+}
+
+#module4-img{
     
-)
+}
+
+#module5 {
+
+}
+
+#module5-text{
+background-color:#009999 ;
+}
+
+#module5-img{
+    
+}
+
+#module6 {
+    
+}
+
+#module6-text{
+background-color:#1d8a8a ;
+}
+
+#module6-img{
+    
+}
+
+#module7 {
+
+}
+
+#module7-text{
+background-color:#3399cc ;
+}
+
+#module7-img{
+    
+}
+
+#modulebonus {
+
+}
+
+#modulebonus-text{
+background-color: #003333;
+color:white;
+}
+
+#modulebonus-img{
+    
+}
 
 #production-video {
 
@@ -305,6 +383,7 @@ background-color:#660066;
 #design-intro h1{
     background-color: #0971ff;
     color:black;
+    text-align: center;
 }
 
 #design-drumkits{
