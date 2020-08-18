@@ -1,11 +1,16 @@
 /* text */
 h1, h2 {
     font-family: 'Lobster', cursive;
+    color:#616161;
 }
 
 h3, h4, h5, h6, p {
 font-family: 'Open Sans', sans-serif;
 }
+
+/* ----------------------------------------------------------------------------------------------------------------------------------- */
+/* body base:#c0ffff accent: #0971ff  */
+
 
 /* ----------------------------------------------------------------------------------------------------------------------------------- */
 
@@ -71,8 +76,18 @@ min-height: 10px;
 
 }
 
+#bio h1{
+    background-color: #0971ff;
+    color:black;
+}
+
 #soundcloud {
 
+}
+
+#soundcloud h2{
+    background-color: #0971ff;
+    color:black;
 }
 
 #soundcloud-player{
@@ -87,6 +102,11 @@ min-height: 10px;
 
 }
 
+#contact-div h1{
+    background-color: #0971ff;
+    color:black;
+}
+
 #contact-form {
 
 }
@@ -98,6 +118,11 @@ min-height: 10px;
 
 }
 
+#dj-course-intro h1{
+    background-color: #0971ff;
+    color:black;
+}
+
 #dj-intro-writing{
 
 }
@@ -107,7 +132,12 @@ min-height: 10px;
 }
 
 #dj-course-price {
+background-color:#660066;
+    color:white;
+}
 
+#dj-course-price h2{
+    color:lightgray
 }
 
 
@@ -115,8 +145,17 @@ min-height: 10px;
 
 }
 
+#dj-tips h1{
+    background-color: #0971ff;
+    color:black;
+}
+
 #mixcloud {
 
+}
+#mixcloud h1{
+    background-color: #0971ff;
+    color:black;
 }
 
 #mixcloud-player{
@@ -129,6 +168,11 @@ min-height: 10px;
 
 #home-intro{
 
+}
+
+#home-intro h1{
+    background-color: #0971ff;
+    color:black;
 }
 
 #home-header{
@@ -144,15 +188,33 @@ min-height: 10px;
 }
 
 #website-for{
+    background-color:#660066;
+    color:white;
+}
 
+#website-for h2{
+    color:lightgray
 }
 
 #offer-you{
+ background-color:#660066;
+    color:white;
+}
 
+#offer-you h2{
+    color:lightgray
 }
 
 #special-offer{
+    background-color: #ff66ff;
+}
 
+#special-offer h2{
+    color:black;
+}
+
+#special-offer h2 a{
+    color:#0000ff;
 }
 
 #home-conclusion{
@@ -167,8 +229,18 @@ min-height: 10px;
 
 }
 
-#production-course-price {
+#production-course-intro h1{
+    background-color: #0971ff;
+    color:black;
+}
 
+#production-course-price {
+background-color:#660066;
+    color:white;
+}
+
+#production-course-price h2{
+    color:lightgray
 }
 
 #production-curriculum {
@@ -227,6 +299,11 @@ min-height: 10px;
 
 }
 
+#design-intro h1{
+    background-color: #0971ff;
+    color:black;
+}
+
 #design-drumkits{
 
 }
@@ -236,11 +313,7 @@ min-height: 10px;
 }
 
 #design-table{
-
-}
-
-#design-samples {
-
+   
 }
 
 .design-total-patches {
@@ -258,6 +331,12 @@ min-height: 10px;
 .design-savings {
     color:red;
 }
+
+#design-samples h2 {
+    background-color: #0971ff;
+    color:black;
+}
+
 /* ----------------------------------------------------------------------------------------------------------------------------------- */
 
 /* footer */
