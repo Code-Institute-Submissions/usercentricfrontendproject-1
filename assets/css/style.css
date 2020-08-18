@@ -9,14 +9,8 @@ font-family: 'Open Sans', sans-serif;
 }
 
 /* ----------------------------------------------------------------------------------------------------------------------------------- */
-/* body base:#c0ffff accent: #0971ff  */
-
-
-/* ----------------------------------------------------------------------------------------------------------------------------------- */
 
 /* header: navbar */
-
-
 .navbar-nav li {
 font-family: 'Lobster';
 background-color: #ffffff;
@@ -43,6 +37,10 @@ min-height: 10px;
     box-shadow: inset 6px 3px 0px  black;
 }
 
+header{
+    background-color: rgb(78, 78, 78)
+}
+
 /* ----------------------------------------------------------------------------------------------------------------------------------- */
 
 /* header: picture */
@@ -65,9 +63,6 @@ min-height: 10px;
   }
 }  */
 
-#banner-image{
-    max-width:100%;
-    height:auto;
 }
 
 /* ----------------------------------------------------------------------------------------------------------------------------------- */
@@ -455,6 +450,32 @@ color:white;
 /* ----------------------------------------------------------------------------------------------------------------------------------- */
 
 /* footer */
+footer {
+    background-color: rgb(78, 78, 78);
+    color:whitesmoke;
+    text-align: center;
+}
+
 #newsletter{
     #
+}
+
+footer #social{
+    word-spacing: 10px;
+    line-height: 3px;
+}
+
+footer a{
+    font-size:20px;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+    color: white;
+}
+
+footer i{
+    color:grey;
+}
+
+#social p{
+    font-weight: bold;
 }
