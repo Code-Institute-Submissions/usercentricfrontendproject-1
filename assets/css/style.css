@@ -88,6 +88,7 @@ min-height: 10px;
 #soundcloud h2{
     background-color: #0971ff;
     color:black;
+    text-align: center;
 }
 
 #soundcloud-player{
@@ -105,10 +106,11 @@ min-height: 10px;
 #contact-div h1{
     background-color: #0971ff;
     color:black;
+    text-align:center;
 }
 
 #contact-form {
-
+text-align: center;
 }
 
 /* ----------------------------------------------------------------------------------------------------------------------------------- */
@@ -156,6 +158,7 @@ background-color:#660066;
 #mixcloud h1{
     background-color: #0971ff;
     color:black;
+    text-align:center;
 }
 
 #mixcloud-player{
