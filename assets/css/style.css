@@ -69,7 +69,10 @@ min-height: 10px;
 
 /* About me */
 #about-me-image{
-
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
 }
 
 #bio {
@@ -79,6 +82,7 @@ min-height: 10px;
 #bio h1{
     background-color: #0971ff;
     color:black;
+    text-align: center;
 }
 
 #soundcloud {
@@ -140,6 +144,9 @@ background-color:#3366ff;
     color:black;
     font-weight: bold;
     text-align: center;
+    border-style:dotted;
+    border-width: 7.5px;
+    
 }
 
 #dj-course-price h2{
@@ -200,6 +207,8 @@ background-color:#3366ff;
     color:black;
     font-weight: bold;
     text-align: center;
+     border-style:dotted;
+    border-width: 7.5px;
 }
 
 #website-for h2{
@@ -211,6 +220,8 @@ background-color:#3366ff;
     color:black;
     font-weight: bold;
     text-align: center;
+     border-style:dotted;
+    border-width: 7.5px;
 }
 
 #offer-you h2{
@@ -252,6 +263,8 @@ background-color:#3366ff;
     color:black;
     font-weight: bold;
     text-align: center;
+     border-style:dotted;
+    border-width: 7.5px;
 }
 
 #production-course-price h2{
