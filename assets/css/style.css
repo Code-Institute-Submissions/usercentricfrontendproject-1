@@ -8,6 +8,14 @@ h3, h4, h5, h6, p {
 font-family: 'Open Sans', sans-serif;
 }
 
+p {
+    padding:5px 5px 5px 5px;
+    margin-top: 4px;
+    margin-bottom: 4px ;
+    margin-left:7px;
+    margin-right: 7px;
+}
+
 /* ----------------------------------------------------------------------------------------------------------------------------------- */
 
 /* header: navbar */
@@ -165,7 +173,7 @@ border: 5px solid black;
 }
 
 #dj-course-price {
-background-color:#3366ff;
+background-color:grey;
     color:black;
     font-weight: bold;
     text-align: center;
@@ -175,7 +183,9 @@ background-color:#3366ff;
 }
 
 #dj-course-price h2{
-    color:lightgray
+ color:black;
+    border7.5px solid grey;
+    text-decoration: underline;
 }
 
 #dj-img {
@@ -183,11 +193,12 @@ background-color:#3366ff;
     border: 7.5px solid black;
 }
 
-#dj-tips {
-
+#dj-tips p{
+    font-size: 16px;
 }
 
-#dj-tips h1{
+#dj-tips {
+    border: 7.5px solid black;
     background-color: #719ad4;
     color:black;
 }
@@ -236,7 +247,7 @@ background-color:#3366ff;
 }
 
 #website-for{
-background-color:#3366ff;
+background-color:grey;
     color:black;
     font-weight: bold;
     text-align: center;
@@ -245,11 +256,13 @@ background-color:#3366ff;
 }
 
 #website-for h2{
-    color:lightgray
+    color:black;
+    border7.5px solid grey;
+    text-decoration: underline;
 }
 
 #offer-you{
- background-color:#3366ff;
+ background-color:grey;
     color:black;
     font-weight: bold;
     text-align: center;
@@ -258,11 +271,13 @@ background-color:#3366ff;
 }
 
 #offer-you h2{
-    color:lightgray
+    color:black;
+    border7.5px solid grey;
+    text-decoration: underline;
 }
 
 #special-offer{
-    background-color: #ff66ff;
+    background-color: rgba(72, 247, 247, 0.849);
 }
 
 #special-offer h2{
@@ -292,7 +307,7 @@ background-color:#3366ff;
 }
 
 #production-course-price {
-background-color:#3366ff;
+background-color:grey;
     color:black;
     font-weight: bold;
     text-align: center;
@@ -301,7 +316,9 @@ background-color:#3366ff;
 }
 
 #production-course-price h2{
-    color:lightgray
+    color:black;
+    border7.5px solid grey;
+    text-decoration: underline;
 }
 
 #production-curriculum {
@@ -309,7 +326,10 @@ background-color: rgb(110, 105, 105);
 }
 
 #production-curriculum div{
-    height:200px;
+    height:auto;
+    width: 100%;
+    text-align: center;
+    padding: 0 auto;
 }
 
 #production-curriculum-headline{
@@ -318,12 +338,6 @@ background-color: rgb(110, 105, 105);
 
 #production-curriculum h3{
     font-weight: bold;
-}
-
-#production-curriculum img {
-    padding-top:25px;
-    width:75%;
-    height:75%;
 }
 
 #module1 {
@@ -335,9 +349,6 @@ background-color:white ;
 color:black;
 }
 
-#module1-img{
-
-}
 
 #module2 {
 
@@ -348,10 +359,6 @@ background-color:black ;
 color:white;
 }
 
-#module2-img{
-    
-}
-
 #module3 {
     
 }
@@ -359,10 +366,6 @@ color:white;
 #module3-text{
 background-color:white ;
 color:black;
-}
-
-#module3-img{
-    
 }
 
 #module4 {
@@ -375,10 +378,6 @@ background-color:black;
 color:white;
 }
 
-#module4-img{
-    
-}
-
 #module5 {
 
 }
@@ -386,10 +385,6 @@ color:white;
 #module5-text{
 background-color:white ;
 color:black;
-}
-
-#module5-img{
-    
 }
 
 #module6 {
@@ -401,10 +396,6 @@ background-color:black;
 color:white;
 }
 
-#module6-img{
-    
-}
-
 #module7 {
 
 }
@@ -414,10 +405,6 @@ background-color:white ;
 color:black;
 }
 
-#module7-img{
-    
-}
-
 #modulebonus {
 
 }
@@ -425,10 +412,6 @@ color:black;
 #modulebonus-text{
 background-color: black;
 color:white;
-}
-
-#modulebonus-img{
-    
 }
 
 #production-video {
