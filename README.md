@@ -71,7 +71,16 @@ Testing
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
-    W3C Markup Validator - Results
+    W3C Markup Validator - [Results 'about me'](documentation/about-me-validation.png)
+    W3C Markup Validator - [Results 'contact'](documentation/contact-validation.png)
+    W3C Markup Validator - [Results 'design'](documentation/design-validation.png)
+    W3C Markup Validator - [Results 'dj'](documentation/dj-validation.png)
+    W3C Markup Validator - [Results 'home'](documentation/home-validation.png)
+    W3C Markup Validator - [Results 'production'](documentation/production-validation.png)
+    
+
+        *note: errors in the markup validator on came from external code for the soundcloud and mixcloud players - these players were fully functional on the actual site
+
     W3C CSS Validator -[Results](documentation/css-validation.png)
  
 Known Bugs
