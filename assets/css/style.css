@@ -41,7 +41,6 @@ min-height: 10px;
 float:left;
 }
 
-
 .navbar a {
     text-decoration: none;
     color:black;
@@ -69,35 +68,7 @@ nav {
 
 /* ----------------------------------------------------------------------------------------------------------------------------------- */
 
-/* header: picture */
-
-  /*  @media screen and (min-width:576px {
-  .navbar-nav li {
-    font-size: 10px;
-  }
-}
-
-@media screen and (min-width:768px {
-  .navbar-nav li {
-    font-size: 10px;
-  }
-}
-
-@media screen and (min-width:992px {
-  .navbar-nav li {
-    font-size: 18px;
-  }
-}  */
-
-}
-
-/* ----------------------------------------------------------------------------------------------------------------------------------- */
-
 /* About me */
-
-#bio {
-
-}
 
 #bio h1{
     background-color: #0971ff;
@@ -109,27 +80,15 @@ nav {
     border: 7.5px solid black 
 }
 
-#soundcloud {
-
-}
-
 #soundcloud h2{
     background-color: #0971ff;
     color:black;
     text-align: center;
 }
 
-#soundcloud-player{
-
-}
-
 /* ----------------------------------------------------------------------------------------------------------------------------------- */
 
 /* contact */
-
-#contact-div{
-
-}
 
 #contact-div h1{
     background-color: #0971ff;
@@ -146,9 +105,6 @@ border: 5px solid black;
 /* ----------------------------------------------------------------------------------------------------------------------------------- */
 
 /* DJ */
-#dj-course-intro {
-
-}
 
 #dj-course-intro h1{
     background-color: #0971ff;
@@ -160,14 +116,6 @@ border: 5px solid black;
      border: 7.5px solid black 
 }
 
-#dj-intro-writing{
-
-}
-
-#dj-video {
-
-}
-
 #dj-course-price {
 background-color:grey;
     color:black;
@@ -175,12 +123,11 @@ background-color:grey;
     text-align: center;
     border-style:solid;
     border-width: 7.5px;
-    
 }
 
 #dj-course-price h2{
  color:black;
-    border7.5px solid grey;
+    border:7.5px solid grey;
     text-decoration: underline;
 }
 
@@ -207,43 +154,20 @@ background-color:grey;
     font-size: 18px;
 }
 
-#mixcloud {
-
-}
 #mixcloud h1{
     background-color: #0971ff;
     color:black;
     text-align:center;
 }
 
-#mixcloud-player{
-
-}
-
 /* ----------------------------------------------------------------------------------------------------------------------------------- */
 
 /* index */
-
-#home-intro{
-
-}
 
 #home-intro h1{
     background-color: #0971ff;
     color:black;
     text-align: center;
-}
-
-#home-header{
-
-}
-
-#home-video{
-
-}
-
-#home-lists{
-
 }
 
 #website-for{
@@ -257,7 +181,7 @@ background-color:grey;
 
 #website-for h2{
     color:black;
-    border7.5px solid grey;
+    border:7.5px solid grey;
     text-decoration: underline;
 }
 
@@ -272,7 +196,7 @@ background-color:grey;
 
 #offer-you h2{
     color:black;
-    border7.5px solid grey;
+    border:7.5px solid grey;
     text-decoration: underline;
 }
 
@@ -288,17 +212,9 @@ background-color:grey;
     color:#0000ff;
 }
 
-#home-conclusion{
-
-}
-
 /* ----------------------------------------------------------------------------------------------------------------------------------- */
 
 /* production */
-
-#production-course-intro {
-
-}
 
 #production-course-intro h1{
     background-color: #0971ff;
@@ -321,7 +237,7 @@ background-color:grey;
 
 #production-course-price h2{
     color:black;
-    border7.5px solid grey;
+    border:7.5px solid grey;
     text-decoration: underline;
 }
 
@@ -337,11 +253,6 @@ background-color: rgb(110, 105, 105);
     height:auto;
     width: 100%;
     text-align: center;
-    padding: 0 auto;
-}
-
-#production-curriculum-headline{
-
 }
 
 #production-image-1{
@@ -352,18 +263,9 @@ background-color: rgb(110, 105, 105);
     font-weight: bold;
 }
 
-#module1 {
-
-}
-
 #module1-text{
 background-color:white ;
 color:black;
-}
-
-
-#module2 {
-
 }
 
 #module2-text{
@@ -371,27 +273,14 @@ background-color:black ;
 color:white;
 }
 
-#module3 {
-    
-}
-
 #module3-text{
 background-color:white ;
 color:black;
 }
 
-#module4 {
-
-}
-
-
 #module4-text{
 background-color:black;
 color:white;
-}
-
-#module5 {
-
 }
 
 #module5-text{
@@ -399,17 +288,10 @@ background-color:white ;
 color:black;
 }
 
-#module6 {
-    
-}
 
 #module6-text{
 background-color:black;
 color:white;
-}
-
-#module7 {
-
 }
 
 #module7-text{
@@ -417,30 +299,14 @@ background-color:white ;
 color:black;
 }
 
-#modulebonus {
-
-}
-
 #modulebonus-text{
 background-color: black;
 color:white;
 }
 
-#production-video {
-
-}
-
-#production-video-player{
-
-}
-
 /* ----------------------------------------------------------------------------------------------------------------------------------- */
 
 /* design */
-
-#design-intro{
-
-}
 
 #design-intro h1{
     background-color: #0971ff;
@@ -452,29 +318,8 @@ color:white;
  border: 7.5px solid black 
 }
 
-#design-drumkits{
-
-}
-
-#design-price{
-
-}
-
 #design-table{
     border-style: double;
-   
-}
-
-.design-total-patches {
-
-}
-
-.design-total-cost {
-
-}
-
-.design-per-patch {
-
 }
 
 .design-savings {
@@ -496,13 +341,10 @@ footer {
     text-align: center;
 }
 
-#newsletter{
-    #
-}
-
 footer #social{
     word-spacing: 5px;
     line-height: 3px;
+}
 
 footer a{
     font-size:20px;
