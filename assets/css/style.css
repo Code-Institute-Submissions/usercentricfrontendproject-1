@@ -156,6 +156,10 @@ border: 5px solid black;
     text-align: center;
 }
 
+#dj-course-intro p{
+     border: 7.5px solid black 
+}
+
 #dj-intro-writing{
 
 }
@@ -178,6 +182,10 @@ background-color:grey;
  color:black;
     border7.5px solid grey;
     text-decoration: underline;
+}
+
+#dj-course-price a{
+    color:rgb(23, 7, 167)
 }
 
 #dj-img {
@@ -298,6 +306,10 @@ background-color:grey;
     text-align: center;
 }
 
+#production-course-intro p{
+     border: 7.5px solid black 
+}
+
 #production-course-price {
 background-color:grey;
     color:black;
@@ -311,6 +323,10 @@ background-color:grey;
     color:black;
     border7.5px solid grey;
     text-decoration: underline;
+}
+
+#production-course-price a{
+    color:rgb(23, 7, 167)
 }
 
 #production-curriculum {
@@ -430,6 +446,10 @@ color:white;
     background-color: #0971ff;
     color:black;
     text-align: center;
+}
+
+#design-intro p{
+ border: 7.5px solid black 
 }
 
 #design-drumkits{
