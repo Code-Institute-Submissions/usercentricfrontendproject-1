@@ -94,14 +94,6 @@ nav {
 /* ----------------------------------------------------------------------------------------------------------------------------------- */
 
 /* About me */
-#about-me-image{
-    display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 25%;
-  max-width: 75%;
-  text-align: center;
-}
 
 #bio {
 
@@ -336,6 +328,10 @@ background-color: rgb(110, 105, 105);
 
 }
 
+#production-image-1{
+    width:90%;
+}
+
 #production-curriculum h3{
     font-weight: bold;
 }
@@ -468,6 +464,7 @@ color:white;
 #design-samples h2 {
     background-color: #0971ff;
     color:black;
+    text-align: center;
 }
 
 /* ----------------------------------------------------------------------------------------------------------------------------------- */
