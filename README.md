@@ -1,97 +1,107 @@
-External users goals:
-Site's users are interested in learning how to produce music, how to dj or acquiring new sounds for their own use
+User Experience (UX)
 
-Site owners goals:
-Acquire students to teach (music production and djing), sell own samples and sounds, and also gain more listeners for my own music
+User stories
 
-Potential features:
-Give personal story and own experience
-Give an outline of both production and dj course - Embedded video (example of tutorials) including pricing
-Embedded music (examples of patches, soundcloud player, mixcloud player)
-Contact form
+First Time Visitor Goals
 
-Advanced features:
-Embedded videos giving outline of services offered
-Newsletter subscription service with free tips and tricks
-Collapsible elements on smaller devices to streamline site and draw attention to key elements (course prices)
+    As a First Time Visitor, I want to understand what the website can offer me.
+    As a First Time Visitor, I want to learn about the site admin, their relevant experience and be able to relate to them on a human level.
+    As a First Time Visitor, I want to easily navigate each section of the website without the need to use the browser forward/back buttons.
+    As a first time visitor, I want to know where to go if I choose to purchase any products/ services.
 
----
+Returning Visitor Goals
 
-Header :
-Make it look like a synth. Navbar to left, image to right
+    As a Returning Visitor, I want to avoid repeating the content I have already seen/ used and directly navigate to the relevant area.
+    As a Returning Visitor, I want to be able to communicate directly with the site admin to give feedback and enquire about the services offered.
+    As a Returning Visitor, I want to access relevant social media to stay involved.
 
-_-Home (intro video embedded)
-_-About me (photo, bio)
- -Home - introduction to site content
-_-Learn music production (list broken into modules, include photos and sound samples. Short free tutorial video embedded)
-_-Learn how to DJ (brief outline, offer some free tips and tricks)
-_-Sound design service (Include pricing table using bootstrap tables.Can request how many of each sound (i.e bass, lead, pad, arps etc) is included in that.
-_-Contact (form)
+    Frequent User Goals
+        As a Frequent User, I want to access additional learning content to increase my understanding of the topics covered.
+        As a Frequent User, I want to access more creative content from the site admin to give myself newer creative ideas.
+        As a Frequent User, I want to sign up to the newsletter to keep abreast of updates and further my relevant knowledge.
 
-Footer - (link to soundcloud, mixcloud, facebook), sign up to newsletter
+Design
 
-** Aesthetics **
+Colour Scheme
 
-- Vertical menu items along left hand side to look like piano keys. Use hover effect to make it look like keys are being played
-- Header will be a picture of a synthesizer
-- Include musical fontawesome icons such as notes, keys, speakers and turntables
-- Use less colors but more shades of said colours for subtle effect
-- use same color for header and footer background for continuity
----
+    The main colours used blue for headings, and neutral colours such as black, white and grey for an understated visual effect
 
-chosen (google) text for h1,h2: Lobster (regular 400)
-chosen (google) text for h3,h4,h5,h6,p: Open sans (light 300, regular 400, semi-bold 500)
+Typography
 
----------------------------------------------------------------------------------------------------------------------------------
-external code used and purpose:
-Bootstrap - to use the grid system to easily manage site elements. Also to make the website as responsive as possible
-Fontawesome - to use specific icons on the website
-Google fonts - for the site font scheme
-Soundcloud player - to embed one of my own songs and an external link to my own homepage
-Mixcloud player - to embed one of my own dj mixes and an external link to my own homepage
+    The Lobster (Google) font is the main font used throughout the whole website for h1, h2 and h3 elements, while Open Sans is used for any other text elements, and also as a back up if the primary font does not load on the site. Lobster is a handwritten-style font which gives the site a more relaxed and informal style, and is less sterile and corporate than many typical font types.
+
+        Imagery
+            Imagery is important. The images contained within the site are all relevant to the software and creative content that potential users could access and gives an immersive feel.
+
+    Wireframes
+
+      
+
+Features
+
+    Responsive on all device sizes
+
+    Interactive elements - audio relevant to admin and user objectives 
+
+Technologies Used
+Languages Used
+
+    HTML5
+    CSS3
+
+Frameworks, Libraries & Programs Used
+
+    Bootstrap 4.4.1:
+        Bootstrap was used to assist with the responsiveness and styling of the website (namely use of the grid model).
+    Hover.css:
+        Hover.css was used on the navigation bar to give the effect of piano keys being pressed.
+    Google Fonts:
+        Google fonts were used to import the 'Lobster' and 'Open Sans' fonts into the style.css file which, between them, cover all text elements on all pages throughout the project.
+    Font Awesome:
+        Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
+    jQuery:
+        jQuery came with Bootstrap to make the navbar responsive but was also used for the smooth scroll function in JavaScript.
+    Git
+        Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+    GitHub:
+        GitHub is used to store the projects code after being pushed from Git.
+   
+
+Testing
+
+The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+
+    W3C Markup Validator - Results
+    W3C CSS Validator - Results
+ 
+Known Bugs
+
+   
+Deployment
+
+GitHub Pages
+
+The project was deployed to GitHub Pages using the following steps...
+
+    Log in to GitHub and locate the GitHub Repository
+    At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
+    Scroll down the Settings page until you locate the "GitHub Pages" Section.
+    Under "Source", click the dropdown called "None" and select "Master Branch".
+    The page will automatically refresh.
+    Scroll back down through the page to locate the now published site link in the "GitHub Pages" section.
 
 
---------------------------------------
-wireframe for entire website on 4 screen sizes
+Content
 
-include UX in readme
+    All content was written by the developer except for the code to embed the Soundcloud and Mixcloud players, which link to original creative content by the developer.
 
-- use w3c html and css validator and include screenshots of resolutions
---------------------------------------
 
-Site goals:
-- Entice visitors to sign up to one of the courses offered
-- Sell the sound design service to visitors
-- Attract more visitors to the social links - soundcloud, mixcloud and 
+Media
 
-Sire rationale:
-- Clearly define different sections of the website using color themes and borders to help users navigate the site effectively to the section they desire
-- make the site responsive to equally attract mobile and pc users and everybody in between
-- Include a variety of mediums of information inlcuding video, images and audio clips to create a rich environment that conveys the different aspects of what is offered to the user
+    All Images and Audio elements were created by the developer.
 
-User goals:
-- clear navigation of site
-- Clearly signposted how to partake in the services offered by website, the features of said courses and the prices
-- Clear path to get in touch with site admin - regarding services offered or social media presence
-- Clear distinction between themes and content offered on site
+Acknowledgements
 
-User stories:
+    My Mentor for continuous helpful feedback.
 
-As a first time visitor, I want to:
-- understand what the website can offer me
-- Learn about the site admin, their relevant experience and be able to relate to them on a human level
-- easily navigate each section of the website without the need to use the browser forward/back buttons
-- know where to go if I choose to purchase one of the services offered
-- be able to contact the site admin directly
-
-As a returning visitor, I want to:
-- Avoid repeating the content I have already seen/ used and directly navigate to the relevant area
-- Be familiar with the layout
-- be confident that if I have any queries, that I can directly speak to site admin
-
-As both as a site owner and a client, I want to:
-- Attract as many visitors as possible
-- minimize the amount of time between a visitor arriving on the site and making a decision to purchase the services that I offer
-- Showcase my own abilities/ experience and instill confidence in potential buyers.
-- Maintain an uncluttered website that requires little ongoing maintenance
-- Upsell the opportunity of buying both courses instead of just one, saving the customer more money but making myself the maximum profit
+    Tutor support at Code Institute for their support.
